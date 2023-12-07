@@ -1,4 +1,3 @@
 ## Fields of Specialization
 
-Ancient relics, imperial theft of cultural patrimony, Grail lore,
-anti-fascism, masculinist archæology, Celtic mythology, Herpetology.
+UI/UX Design, Content edition, Image editing
