@@ -2,3 +2,7 @@ tmp
 *.log
 *.otf
 
+node_modules
+
+# Local Netlify folder
+.netlify
