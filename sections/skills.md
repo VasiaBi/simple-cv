@@ -1,4 +1,6 @@
 ## Skills
 
-* \LaTeX
-* Bullwhip
+* Photoshop, Illustrator
+* XD, Figma
+* HTML, CSS
+* Treejack, Useberry
