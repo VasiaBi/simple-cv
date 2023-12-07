@@ -49,13 +49,13 @@ keywords:
 - colonial exploitation
 last-modified: true
 meta-title: Simple CV
-canonical-url: "https://muziejus.github.io/simple-cv/" # Change this to your url.
+canonical-url: "https://VasiaBi.github.io/simple-cv/" # Change this to your url.
 date-created: 2018-04-18
 description: >- 
   A Curriculum Vitæ created using the “simple-cv” package,
-  available at https://github.com/muziejus/simple-cv 
+  available at https://github.com/VasiaBi/simple-cv 
 og-image:
-  url: https://muziejus.github.io/simple-cv/assets/images/simple-cv.png
+  url: https://VasiaBi.github.io/simple-cv/assets/images/simple-cv.png
   type: image/png
   height: 384
   width: 384
