@@ -1,6 +1,8 @@
 ## Selected Publications
 
-* Jones, Henry W. Jr. _How I Got Rich off Colonialism_. Princeton, NJ:
-  Princeton University Press, 1944.
-* Jones, Henry W. Jr. “It Belongs in a Museum.” _Journal of Patrimony
-  Exploitation_ 10, no. 1 (1944), 793–843.
+* UI/UX Designer, Nov. 2019 - Present
+  Digital Operations Squad, Vodafone
+* CX Design Graduate Trainee, Mar. 2019 - Nov. 2019
+  CX Team, Vodafone
+* CRM Product Trainee, Nov. 2018 - Feb. 2019
+  Commercial Division, Intralot

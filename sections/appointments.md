@@ -1,5 +1,5 @@
-##  Professional experience
+##  Online Courses
 
-* UI/UX Designer, **Digital Operations Squad**, Vodafone
-* PCX Design Graduate Trainee, **CX Team**, Vodafone
-* CRM Product Trainee, **Commercial Division**, Intralot
+* Advanced programming with Python
+* Web Design and Digital Content Production
+* Introduction with Python

@@ -3,10 +3,10 @@
 
 !INCLUDE "sections/education.md"
 
-!INCLUDE "sections/fields.md"
+!INCLUDE "sections/appointments.md"
 
-!INCLUDE "sections/languages.md"
-
-!INCLUDE "sections/service.md"
+!INCLUDE "sections/publications.md"
 
 !INCLUDE "sections/skills.md"
+
+!INCLUDE "sections/languages.md"
