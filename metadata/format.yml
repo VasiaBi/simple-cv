@@ -7,9 +7,7 @@
 title: "Vasia Bilali CV" # This is for the pdf metadata and <title> in html
 author: 
 - Vasia Bilali # This is the *author*, not the person, though it’s likely the same.
-- Vasia Bilali
 author-lastname-first: # Same as above, but for Dublin Core metadata
-- "Vasia Bilali"
 - "Vasia Bilali"
 mode: markdown # or yaml. Yaml mode, however, is a future feature.
 contact-information: Contact Information # The text for the contact information header.

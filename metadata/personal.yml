@@ -9,10 +9,10 @@ name: Vasia Bilali # full name
 # These can be commented out or deleted.
 display-name: Vasia Bilali # name to be displayed.
 date-of-birth: 1995-09-30 # in YYYY-MM-DD format
-citizenships:
-- Greece
+# citizenships:
+# - Greece
 address:
-- Patras
+- Athens, Greece
 telephone: 6978****68
 email: vasiabilali@gmail.com
 github: VasiaBi
